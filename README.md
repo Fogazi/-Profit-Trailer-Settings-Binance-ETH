@@ -1,1 +1,1 @@
-# -Profit-Trailer-Settings-Binance-ETH
+# ProfitTrailer settings for ETH on Binance
